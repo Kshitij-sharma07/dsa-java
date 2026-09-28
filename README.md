@@ -15,4 +15,12 @@ Java DSA solutions and problem-solving practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Kshitij-sharma07/dsa-java/tree/main/0009-palindrome-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kshitij-sharma07/dsa-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kshitij-sharma07/dsa-java/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
